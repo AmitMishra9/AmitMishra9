@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">Enthusiastic BCA graduate with a passion for Software Development.</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611i1ujx8rgt1b98alg0g62zz27udtwcpirsgat9rz3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
