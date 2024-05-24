@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611i1ujx8rgt1b98alg0g62zz27udtwcpirsgat9rz3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🌱 I’m currently learning **Node-js,Express-js,MongoDB,Mysql,GraphQL,**
 
-- 💬 Ask me about **React,JavaScript,Nodejs,HTML,CSS,DSA,JAVA**
+- 💬 Ask me about **React,JavaScript,HTML,CSS,DSA,JAVA**
 
 - 📫 How to reach me **amitmishra10111@gmail.com**
 
