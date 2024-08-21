@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS,DSA,JAVA**
 
-- 📫 How to reach me **amitmishra10111@gmail.com**
+- 📫 How to reach me **amitmishra10111@gmail.com || amitkumarmishra10111@gmail.com ** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
